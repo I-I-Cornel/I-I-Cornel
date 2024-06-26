@@ -3,9 +3,9 @@ Hi, I'm Ifeanyichukwu!
 <p align='start'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=6495ED&background=FFFFFF00&start=true&width=535&lines=🚀+A+Passionate+Frontend+Developer💻;Bridging+Code+Across+the+Stack+💫"/></p>
 
 # 👤 About Me:
-- 🛠 Crafting Digital Delight: <br>I specialize in JavaScript, React.js, and TypeScript, creating responsive and intuitive web applications.
-- <b> 👨‍💻 Pursuing Full-Stack Mastery: <br>I am expanding my skills to become a full-stack software engineer, diving into backend technologies and database management.
-- <b> 📈 What's Next: <br>Let's collaborate on projects that push the boundaries of digital innovation together! 🚀
+- <b> 🛠 Crafting Digital Delight: </b> <br>I specialize in JavaScript, React.js, and TypeScript, creating responsive and intuitive web applications.
+- <b> 👨‍💻 Pursuing Full-Stack Mastery: </b> <br>I am expanding my skills to become a full-stack software engineer, diving into backend technologies and database management.
+- <b> 📈 What's Next: </b> <br>Let's collaborate on projects that push the boundaries of digital innovation together! 🚀
 - <b> 🖥️  See my portfolio at [My-Portfolio](https://github.com/I-I-Cornel)
 
 # 🎯 Projects: 
@@ -38,10 +38,10 @@ Hi, I'm Ifeanyichukwu!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RohitKS7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
- <a href="https://www.twitter.com/SumanRohitK7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SumanRohitK7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/RohitKS7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RohitKS7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ <a href="https://www.twitter.com/I_I_Cornel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/I_I_Cornel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/I-I-Cornel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/I-I-Cornel?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ![](https://cdn-128.anonfiles.com/Z7hd35Vcyb/eecc348c-1675320833/rohit's%20Header.png)
 
@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/RohitKS7?logo=github&style=for-the-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ifeanyichukwu-cornelius-ikechukwu) <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?🤳🏾logo=medium&logoColor=white)](https://medium.com/@dummy text) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/dummy text) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dummy text) --> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/I_I_Cornel)
 
 
-[![](https://visitcount.itsvg.in/api?id=RohitKS7&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=I-I-Cornel&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!--   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohitks7) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rohitks7) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rohitks7)  -->
