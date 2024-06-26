@@ -17,11 +17,11 @@ Hi, I'm Ifeanyichukwu!
   - [Vidkreate Webinar Responsive Landing Page ](https://webinarsalespage.techhubsquare.com/)
   - [AdaSuite Software ](https://#)
  
-- <b>React-TypeScript and Tailwindcss</b>
+- <b>React-TypeScript and Tailwindcss (Coming Soon)</b>
   - [CleverWeb](https://#)
   - [Karacter](https://#)
 
-- <b>Vue and Tailwindcss</b>
+- <b>Vue and Tailwindcss (Coming Soon)</b>
   - [Iverse](https://#)
 
 # 💻 Tech Stack: 
