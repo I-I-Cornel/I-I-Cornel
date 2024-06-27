@@ -10,23 +10,24 @@ Hi, I'm Ifeanyichukwu!
 
 # 🎯 Projects: 
 
-- <b>HTML, CSS, Tailwindcss, JavaScript, and JQuery Responsive Landing Pages & Websites</b>
+- <b>Responsive Landing Pages & Websites (HTML, CSS, Tailwindcss, JavaScript, and JQuery)</b>
+  - [TechHubSquare](https://techhubsquare.com/)
   - [Vidkreate](https://vidkreate.techhiveinc.com)
   - [VidKreate Agency](https://agencysalespage.techhubsquare.com/)
   - [VidKreate Reseller](https://resellersalespage.techhubsquare.com/)
   - [Vidkreate Webinar](https://webinarsalespage.techhubsquare.com/)
 
-- <b>HTML, CSS, Tailwindcss, JavaScript, and JQuery Software</b>
+- <b>Software (HTML, CSS, Tailwindcss, JavaScript, and JQuery)</b>
   - [VidKreate ](https://app.vidkreate.io/login.php)
   - [AdaSuite ](https://dev.adasuite.io/)
-  - [TeamSuite ](https://#)
+  - [TeamSuite (Coming Soon)](https://#)
 
-- <b>React-TypeScript and Tailwindcss Software (Coming Soon)</b>
-  - [CleverWeb](https://#)
-  - [Karacter](https://#)
+- <b>Software (React-TypeScript and Tailwindcss)</b>
+  - [CleverWeb (Coming Soon)](https://#)
+  - [Karacter (Coming Soon)](https://#)
 
-- <b>Vue and Tailwindcss Software (Coming Soon)</b>
-  - [Iverse](https://#)
+- <b>Software (Vue and Tailwindcss)</b>
+  - [Iverse (Coming Soon)](https://#)
 
 # 💻 Tech Stack: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23563D7C.svg?style=for-the-badge&logo=Redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23000000.svg?style=for-the-badge&logo=zustand&logoColor=white)
