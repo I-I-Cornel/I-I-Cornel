@@ -34,9 +34,10 @@ Hi, I'm Ifeanyichukwu!
  
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-o1cunm7ft-cornels-projects-098aaa91.vercel.app/api?username=I-I-Cornel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats-o1cunm7ft-cornels-projects-098aaa91.vercel.app/api?username=I-I-Cornel&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
-![](https://github-readme-stats.vercel.app/api?username=I-I-Cornel&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-I-Cornel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
 
 
 <!--  ## 🏆 GitHub Trophies
