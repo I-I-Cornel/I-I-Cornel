@@ -1,6 +1,6 @@
 Hi, I'm Ifeanyichukwu!
 ==================================
-<p align='start'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=6495ED&background=FFFFFF00&start=true&width=535&lines=🚀+A+Passionate+Frontend+Developer💻;Bridging+Code+Across+the+Stack+💫"/></p>
+<p align='start'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=6495ED&background=FFFFFF00&start=true&width=535&lines=🚀+A+Dedicated+Frontend+Developer💻;Bridging+Code+Across+the+Stack+💫"/></p>
 
 # 👤 About Me:
 - <b> 🛠 Crafting Digital Delight: </b> <br>I specialize in JavaScript, React.js, and TypeScript, creating responsive and intuitive web applications.
