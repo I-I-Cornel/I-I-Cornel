@@ -4,10 +4,11 @@ Hi, I'm Ifeanyichukwu!
 
 # 👤 About Me:
 - <b> 🛠 Crafting Digital Delight: </b> <br>I specialize in JavaScript, React.js, and TypeScript, creating responsive and intuitive web applications.
-- <b> 👨‍💻 Pursuing Full-Stack Mastery: </b> <br>I am expanding my skills to become a full-stack software engineer, diving into backend technologies and database management.
+- <b> 👨🏽‍💻 Pursuing Full-Stack Mastery: </b> <br>I am expanding my skills to become a full-stack software engineer, diving into backend technologies and database management.
 - <b> 📈 What's Next: </b> <br>Let's collaborate on projects that push the boundaries of digital innovation together! 🚀
-- <b> 🖥️  See my portfolio at [My-Portfolio](https://github.com/I-I-Cornel) (Coming soon)<br>
-  <a target="_blank" href="https://drive.google.com/file/d/1JjlrrWdHg_aSpxjvP5R4-8Gs5QAFiJgX/view"><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
+<!-- - <b> 🖥️  See my portfolio at [My-Portfolio](https://github.com/I-I-Cornel) (Coming soon)<br> -->
+<b>🗓️ Click on the button below to view my Resume <br>
+ 👉🏽 <a target="_blank" href="https://drive.google.com/file/d/1JjlrrWdHg_aSpxjvP5R4-8Gs5QAFiJgX/view"><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
 
 
 # 🎯 Projects: 
