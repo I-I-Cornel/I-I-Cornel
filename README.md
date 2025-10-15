@@ -1,7 +1,7 @@
 Hi, I'm Ifeanyichukwu!
 ==================================
 <p align='start'> 
- <img src="https://readme-typing-svg.vercel.app?size=25&pause=1000&color=6495ED&width=800&lines=💡+I+believe+growth+is+a+continuous+process;Every+project+teaches+me+something;new+about+performance,+design+and+accessibility" />
+ <img src="https://readme-typing-svg.vercel.app?size=25&pause=1000&color=6495ED&width=800&lines=💡+I+believe+growth+is+a+continuous+process;Every+project+teaches+me+something+new;about+performance,+design+and+accessibility" />
 </p>
 
 # 👤 About Me:
