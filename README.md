@@ -13,7 +13,7 @@ Hi, I'm Ifeanyichukwu!
 
 # 🎯 Projects: 
 
-- <b>Responsive Landing Pages & Websites (HTML, CSS, Tailwindcss, JavaScript, and JQuery)</b>
+- <b>Responsive Landing Pages & Websites (HTML, CSS, Tailwindcss, JavaScript, React, NextJs, NodeJs)</b>
   - [Pilgrims Spot](https://pilgrims-spot.vercel.app)
   - [TechHubSquare](https://techhubsquare.com)
 
