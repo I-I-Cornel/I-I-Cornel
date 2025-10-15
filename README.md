@@ -1,6 +1,7 @@
 Hi, I'm Ifeanyichukwu!
 ==================================
-<p align='start'> <img src="https://readme-typing-svg.herokuapp.com?weight=800&size=25&pause=1000&color=6495ED&background=FFFFFF00&center=true&vCenter=true&width=600&lines=🚀+Result-driven+Frontend+Developer💻;Bridging+Code+Across+the+Stack+💫" />
+<p align='start'> 
+ <img src="https://readme-typing-svg.vercel.app?size=25&pause=1000&color=6495ED&width=600&lines=💡+Frontend+Developer+committed+to+growth+and+craft;Building+better+web+experiences+every+day" />
 </p>
 
 # 👤 About Me:
