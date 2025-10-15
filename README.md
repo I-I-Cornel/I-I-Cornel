@@ -14,16 +14,12 @@ Hi, I'm Ifeanyichukwu!
 # 🎯 Projects: 
 
 - <b>Responsive Landing Pages & Websites (HTML, CSS, Tailwindcss, JavaScript, and JQuery)</b>
-  - [TechHubSquare](https://techhubsquare.com/)
-  - [Vidkreate](https://vidkreate.techhubsquare.com/)
-  - [VidKreate Agency](https://agencysalespage.techhubsquare.com/)
-  - [VidKreate Reseller](https://resellersalespage.techhubsquare.com/)
-  - [Vidkreate Webinar](https://webinarsalespage.techhubsquare.com/)
+  - [TechHubSquare](https://techhubsquare.com)
+  - [Pilgrims Spot](https://pilgrims-spot.vercel.app)
 
-- <b>Software (HTML, CSS, Tailwindcss, JavaScript, and JQuery)</b>
+- <b>Software (HTML, CSS, Tailwindcss, JavaScript, JQuery, and React)</b>
+  - [ADACertify](https://adacertify.io/)
   - [PodKastr ](https://podkastr.io/special)
-  - [VidKreate ](https://app.vidkreate.io/login.php)
-  - [AdaSuite ](https://app.adasuite.io)
 <!--
 - <b>Software (React-TypeScript and Tailwindcss)</b>
   - [CleverWeb (Coming Soon)](https://#)
